@@ -91,7 +91,7 @@ a {
   border: 0;
   border-radius: 0.4rem;
   padding: 0.8rem 1rem;
-  background: #0284c7;
+  background: #0369a1;
   color: #ffffff;
   font: inherit;
   text-align: center;
@@ -101,7 +101,7 @@ a {
 
 .btn-primary:hover,
 .btn-card:hover {
-  background: #0369a1;
+  background: #075985;
 }
 
 .btn-primary:focus-visible,
